@@ -1,67 +1,248 @@
-<p align="center">
-  <img
-    src="./Vivek%20Prajapathi%20Developer%20Banner.png"
-    width="100%"
-    alt="Vivek Prajapathi - Full Stack Developer"
-  />
-</p>
-
-<h1 align="center">Hey, I'm Vivek Prajapathi! 👋</h1>
-
-<h3 align="center">
-  Full Stack Developer | AI/ML Enthusiast
-</h3>
+ <!-- ==================== HEADER BANNER ==================== -->
 
 <p align="center">
-  Building scalable web applications and intelligent solutions.
+  <img src="./Vivek%20Prajapathi%20Developer%20Banner.png" width="100%" alt="Vivek Prajapathi - Full Stack Developer and AI/ML Enthusiast" />
 </p>
+
+<!-- ==================== ABOUT ME & TECH STACK ==================== -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>👋 About Me</h2>
+
+I'm a Computer Science Engineering graduate with hands-on experience in Python Full Stack Development and a strong interest in building modern web applications and AI-powered solutions.
+
+I enjoy learning new technologies, solving problems, and turning ideas into practical applications.
+
+- 🎓 B.E. Computer Science Engineering
+- 📊 CGPA: 9.12/10
+- 💼 Python Full Stack Intern at Robowaves
+- 🤖 Interested in AI/ML and Full Stack Development
+- 🚀 Passionate about building real-world applications
+
+📍 Bengaluru, Karnataka, India
+
+📧 [Email Me](mailto:prajapathivivekofficial@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/vivek-prajapathi-b8a859368)
+
+🌐 [Portfolio](https://vivek-prajapathi-portfolio.netlify.app)
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🛠️ Tech Stack</h2>
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" height="38" alt="Programming Languages" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" height="38" alt="Frontend Technologies" />
+
+**Backend Development**
+
+<img src="https://skillicons.dev/icons?i=django,nodejs" height="38" alt="Backend Technologies" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle" height="38" alt="Databases" />
+
+**AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="38" alt="AI and Machine Learning" />
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="38" alt="Developer Tools" />
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
-### Programming Languages
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📚 KitabiKeeda</h3>
+
+**Online Learning Management System**
+
+A React-based online learning platform featuring authentication, personalized dashboards, course management, and administrative functionalities.
+
+**Key Features**
+
+- User authentication and authorization.
+- Role-based access control.
+- Axios API integration.
+- Context API for global authentication state.
+- Admin dashboard with CRUD operations.
+- Reusable components and API services.
+
+**Technologies**
+
+`React 19` `JavaScript` `Context API` `Axios` `React Router` `Vite`
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<a href="https://github.com/Vivek-Prajapathi/KitabiKeeda">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="KitabiKeeda GitHub"/>
+</a>
 </p>
 
-### Frontend Development
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧘 SoulSync AI</h3>
+
+**AI-Powered Yoga Posture Detection System**
+
+An AI-powered application that recognizes yoga postures using computer vision and machine learning.
+
+**Key Features**
+
+- Real-time extraction of 17 body keypoints using MoveNet.
+- Custom dataset containing 82 yoga postures.
+- XGBoost-based yoga pose classification.
+- TensorFlow Lite for lightweight inference.
+- OpenCV for webcam-based image processing.
+- Confidence scores and posture feedback.
+
+**Technologies**
+
+`Python` `XGBoost` `MoveNet` `TensorFlow Lite` `OpenCV` `NumPy`
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<a href="https://github.com/Vivek-Prajapathi/SoulSync-AI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="SoulSync AI GitHub"/>
+</a>
 </p>
 
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== EXPERIENCE & ACHIEVEMENTS ==================== -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>💼 Experience</h2>
+
+**Python Full Stack Intern**
+
+Robowaves – A Unit of Test Yantra Software Solutions
+
+📅 April 2026 – September 2026
+
+- Completed a six-month Python Full Stack internship.
+- Gained practical exposure to frontend, backend, and database development.
+- Worked with Python, web technologies, and REST API integration.
+- Developed experience in application development, debugging, and testing.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏆 Achievements & Leadership</h2>
+
+- 🥇 Best Outgoing Student of the Batch.
+- 🎤 Co-organizer of TEDxGCEM.
+- 🎨 President of the College Design Team.
+- ⚡ Active IEEE Member.
+- 💡 Participated in GenAI Hackfest 2025.
+- 🚀 Participated in the IEEE Rapid Innovation Challenge.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== CURRENTLY EXPLORING ==================== -->
+
+<h2>🌱 Currently Exploring</h2>
+
+<table>
+<tr>
+<td align="center" width="25%">
+⚛️<br/><b>Advanced React</b><br/>TypeScript
+</td>
+<td align="center" width="25%">
+🏗️<br/><b>System Design</b><br/>Application Architecture
+</td>
+<td align="center" width="25%">
+🧩<br/><b>Problem Solving</b><br/>Data Structures & Algorithms
+</td>
+<td align="center" width="25%">
+🤖<br/><b>Artificial Intelligence</b><br/>AI-powered Applications
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-Prajapathi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" />
 </p>
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-Prajapathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Statistics" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-Prajapathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Most Used Languages" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vivek-Prajapathi&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak Statistics" />
 </p>
 
-### AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MoveNet-4285F4?style=for-the-badge" />
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">🤝 Let's Connect & Collaborate!</h2>
+
+<p align="center">
+  I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
 </p>
 
-### Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <a href="mailto:prajapathivivekofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-prajapathi-b8a859368">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Vivek-Prajapathi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vivek-prajapathi-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
 </p>
