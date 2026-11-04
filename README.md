@@ -1,215 +1,182 @@
+ <!-- ================= PROFILE BANNER ================= -->
 
-<img src="./Vivek%20Prajapathi%20Developer%20Banner.png" width="100%" alt="Vivek Prajapathi - Full Stack Developer | AI/ML Enthusiast"/>
+<p align="center">
+  <img src="./Vivek%20Prajapathi%20Developer%20Banner.png" width="100%" alt="Vivek Prajapathi | Full Stack Developer | AI/ML Enthusiast"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Vivek Prajapathi</h1>
+
+<h3 align="center">🚀 Full Stack Developer | Python Developer | AI/ML Enthusiast</h3>
+
+<p align="center">
+  <b>React.js • Python • TypeScript • REST APIs • Machine Learning • Computer Vision</b>
+</p>
 
 ---
 
-<table>
-<tr>
-<td width="43%" valign="top">
+## 👨‍💻 About Me
 
-## 👋 About Me
+Computer Science Engineering graduate passionate about building scalable web applications and intelligent solutions using modern technologies.
 
-Computer Science Engineering graduate with hands-on experience in Full Stack Development and a strong interest in AI/ML. I enjoy building practical, user-focused applications and continuously learning new technologies.
+I enjoy developing practical applications, exploring new technologies, and continuously improving my problem-solving and software development skills.
 
-- 🎓 B.E. Computer Science Engineering
-- 💼 Python Full Stack Intern @ Robowaves
-- 🤖 Interested in AI/ML and Web Development
-- 🚀 Passionate about building real-world solutions
-- 📍 Bengaluru, India
+- 🎓 B.E. in Computer Science Engineering — CGPA: 9.12/10
+- 💼 Completed a six-month Python Full Stack Internship at Robowaves.
+- ⚛️ Interested in Full Stack Development and modern frontend technologies.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Computer Vision.
+- 🚀 Enjoy building projects that solve real-world problems.
+- 📍 Bengaluru, Karnataka, India.
 
-**Connect with me**
+---
 
-[LinkedIn](https://www.linkedin.com/in/vivek-prajapathi-b8a859368) · [Portfolio](https://vivek-prajapathi-portfolio.netlify.app) · [Email](mailto:prajapathivivekofficial@gmail.com)
-
-</td>
-<td width="57%" valign="top">
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" height="30" alt="Python, JavaScript, TypeScript, C and C++"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" height="35" alt="Python JavaScript TypeScript C C++"/>
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,vite" height="30" alt="React, HTML, CSS and Vite"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" height="35" alt="React HTML CSS Vite"/>
 
 **Backend Development**
 
-<img src="https://skillicons.dev/icons?i=django,nodejs" height="30" alt="Django and Node.js"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs" height="35" alt="Django Node.js"/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle" height="30" alt="MySQL and Oracle"/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle" height="35" alt="MySQL Oracle"/>
 
 **AI & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="30" alt="TensorFlow and OpenCV"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="35" alt="TensorFlow OpenCV"/>
 
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/MoveNet-5C3EE8?style=flat-square" alt="MoveNet"/>
+`XGBoost` `Random Forest` `MoveNet` `NumPy` `TensorFlow Lite`
+
+**Authentication & API Integration**
+
+`JWT` `Access Tokens` `Refresh Tokens` `RBAC` `Axios` `REST APIs`
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="30" alt="Git, GitHub, VS Code and Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35" alt="Git GitHub VS Code Postman"/>
 
-</td>
-</tr>
-</table>
+---
+
+## 💼 Professional Experience
+
+### Python Full Stack Intern
+
+**Robowaves – A Unit of Test Yantra Software Solutions**
+
+📅 April 2026 – September 2026
+
+- Completed a six-month Python Full Stack Development internship.
+- Gained practical exposure to frontend, backend and database development.
+- Worked with Python, web technologies and REST API integration.
+- Developed practical experience in application development, debugging and testing.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📚 1. KitabiKeeda – Online Learning Management System
 
-### 📚 KitabiKeeda
+**React 19 | JavaScript | Context API | Axios | React Router | Vite**
 
-**Online Learning Management System**
-
-A React-based learning platform with authentication, role-based access, course management and an administrative dashboard.
+A React-based online learning platform designed to provide an organized learning experience with course discovery, authentication, personalized dashboards and administrative management.
 
 **Key Features**
 
-- User authentication and authorization
-- Context API state management
-- Protected routes
-- Axios API integration
-- Admin dashboard with CRUD operations
+- User registration and login.
+- Authentication and authorization.
+- Role-based access control for users and administrators.
+- Context API for centralized authentication state management.
+- Protected routes.
+- Reusable Axios instance with request and response interceptors.
+- REST API integration for course, user and LMS operations.
+- Admin dashboard with CRUD operations.
+- Modular application architecture and reusable components.
 
-**Technologies**
-
-`React 19` `JavaScript` `Context API` `Axios` `React Router` `Vite`
-
-[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivek-Prajapathi/KitabiKeeda)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧘 SoulSync AI
-
-**AI-Powered Yoga Posture Detection**
-
-An AI-powered yoga posture recognition system using computer vision and machine learning, with prediction confidence and posture feedback.
-
-**Key Features**
-
-- Custom dataset of 82 yoga postures
-- MoveNet keypoint extraction
-- XGBoost pose classification
-- TensorFlow Lite inference
-- OpenCV webcam processing
-- Prediction confidence scores
-
-**Technologies**
-
-`Python` `XGBoost` `MoveNet` `TensorFlow Lite` `OpenCV` `NumPy`
-
-[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivek-Prajapathi/SoulSync-AI)
-
-</td>
-</tr>
-</table>
+🔗 **[View GitHub Repository](https://github.com/Vivek-Prajapathi/KitabiKeeda)**
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧘 2. SoulSync AI – AI-Powered Yoga Posture Detection System
 
-## 💼 Experience
+**Python | XGBoost | Random Forest | MoveNet | TensorFlow Lite | OpenCV | NumPy**
 
-**Python Full Stack Intern**
+An AI-powered yoga posture detection and coaching system that recognizes yoga postures using computer vision and machine learning.
 
-Robowaves – A Unit of Test Yantra Software Solutions
+**Key Features**
 
-*April 2026 – September 2026*
+- Created a custom dataset containing 82 yoga postures.
+- Used MoveNet to extract 17 body keypoints.
+- Applied data preprocessing and feature extraction.
+- Trained XGBoost and Random Forest classifiers for posture recognition.
+- Integrated TensorFlow Lite for lightweight pose estimation.
+- Used OpenCV for webcam-based image processing.
+- Developed an interactive interface for pose selection and camera input.
+- Displayed posture predictions, confidence scores and coaching feedback.
 
-- Frontend and backend development
-- REST API integration
-- Database fundamentals
-- Application development and debugging
+🔗 **[View GitHub Repository](https://github.com/Vivek-Prajapathi/SoulSync-AI)**
 
-</td>
-<td width="50%" valign="top">
+---
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 Best Outgoing Student of the Batch
-- 🎤 Co-organizer – TEDxGCEM
-- 🎨 President – College Design Team
-- ⚡ IEEE Member
-- 💡 GenAI Hackfest 2025
-- 🚀 IEEE Rapid Innovation Challenge
-
-</td>
-</tr>
-</table>
+- 🥇 **Best Outgoing Student of the Batch** – Recognized for overall excellence and contribution to college activities.
+- 🎤 **Co-organizer – TEDxGCEM** – Contributed to event logistics and promotion.
+- 🎨 **President – College Design Team** – Led creative and digital design activities.
+- ⚡ **IEEE Member** – Participated in technical activities.
+- 💡 **GenAI Hackfest 2025 – CMRIT** – Participated in the first phase of the hackathon.
+- 🚀 **IEEE Rapid Innovation Challenge** – Participated with the FutureReady project.
+- 🤝 **Social Hackathon – CMRIT** – Worked on an AI-based communication solution using recognition and hand gestures.
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Currently Exploring
 
-<table>
-<tr>
-<td width="25%" align="center">
-
-⚛️
-
-**Advanced React**
-
-TypeScript
-
-</td>
-<td width="25%" align="center">
-
-🏗️
-
-**System Design**
-
-APIs
-
-</td>
-<td width="25%" align="center">
-
-🧩
-
-**Problem Solving**
-
-DSA
-
-</td>
-<td width="25%" align="center">
-
-🤖
-
-**AI / ML**
-
-Projects
-
-</td>
-</tr>
-</table>
+- ⚛️ Advanced React.js and TypeScript.
+- 🏗️ System Design and Application Architecture.
+- 🔗 Backend Development and REST API Design.
+- 🧩 Data Structures and Algorithms.
+- 🤖 AI-powered Application Development.
 
 ---
 
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science and Engineering**
+
+Gopalan College of Engineering and Management, Bengaluru
+
+2022 – 2026 | **CGPA: 9.12/10**
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+  <a href="https://www.linkedin.com/in/vivek-prajapathi-b8a859368">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Vivek-Prajapathi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vivek-prajapathi-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:prajapathivivekofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vivek-prajapathi-b8a859368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Vivek-Prajapathi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://vivek-prajapathi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:prajapathivivekofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <b>💻 Build • Learn • Improve • Repeat 🚀</b>
 </p>
 
 <p align="center">
-<b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
+  ⭐ Thanks for visiting my profile!
 </p>
 
